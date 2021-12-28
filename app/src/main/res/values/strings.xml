@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="title_activity_guest">Guest\'s Todo List</string>
+    <string name="title_activity_user">User</string>
+
+    <string name="main_textview">My Todo List</string>
+    <string name="add_item_fab">Add Item FAB</string>
+    <string name="mnu_sign_out">Sign Out</string>
+    <string name="button_text_row_delete">Delete</string>
+    <string name="button_text_row_done">Done</string>
+    <string name="todo">Todo</string>
+    <string name="new_todo">New todo</string>
+    <string name="blank_todo_not_allowed">Blank todo not allowed</string>
+    <string name="sign_in_error_snackbar">Error code %s occurred</string>
+    <string name="user_activity_title_template">%s\'s Todo List</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista Quehaceres</string>
+    <string name="title_activity_guest">Quehaceres de invitado</string>
+    <string name="title_activity_user">usuario</string>
+    <string name="main_textview">Mi Lista de quehaceres</string>
+    <string name="add_item_fab">FAB agregar elemento</string>
+    <string name="mnu_sign_out">Cerrar sesión</string>
+    <string name="button_text_row_delete">Eliminar</string>
+    <string name="button_text_row_done">Hecho</string>
+    <string name="todo">Quehacer</string>
+    <string name="new_todo">Nuevo quehacer</string>
+    <string name="blank_todo_not_allowed">Quehacer vacío no permitido</string>
+    <string name="sign_in_error_snackbar">Ocurrió un error con código %s</string>
+    <string name="user_activity_title_template">Quehaceres de %s</string>
+</resources>
